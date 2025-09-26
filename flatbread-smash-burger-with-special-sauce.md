@@ -242,3 +242,77 @@ Would you like me to **recalculate the nutrition** for a “healthier version”
 | **TOTAL (per burger)**         | **785**  | **37**      | **72**    | **38**  |
 
 
+---
+
+## Alternative souces
+
+You’ve got options! A **special sauce** is basically the burger’s personality — creamy, tangy, sometimes smoky or spicy. Here are some creative versions you can try, all easy to whip up:
+
+---
+
+## 🔥 1. Spicy Chipotle Mayo
+
+* ½ cup mayo
+* 1–2 tbsp chipotle in adobo (blended or finely chopped)
+* 1 tsp lime juice
+* Pinch of smoked paprika
+
+👉 Smoky, spicy, and perfect if you like heat.
+
+---
+
+## 🧄 2. Garlic Yogurt Aioli
+
+* ½ cup Greek yogurt
+* 1 clove garlic, roasted or grated
+* 1 tbsp lemon juice
+* 1 tsp olive oil
+* Pinch of salt & pepper
+
+👉 Light, tangy, and garlicky — balances rich patties.
+
+---
+
+## 🥒 3. Tzatziki-Style Burger Sauce
+
+* ½ cup Greek yogurt
+* ¼ cucumber, grated & squeezed dry
+* 1 tbsp dill (fresh or dried)
+* 1 tsp lemon juice
+* 1 clove garlic, minced
+
+👉 Refreshing and herby — great with lamb or beef patties.
+
+---
+
+## 🍯 4. Honey Mustard Cream
+
+* 3 tbsp Dijon mustard
+* 2 tbsp honey
+* 2 tbsp mayo or yogurt
+* Dash of vinegar
+
+👉 Sweet + sharp, works well with crispy onions and cheddar.
+
+---
+
+## 🌶️ 5. Sriracha Ranch
+
+* ½ cup ranch dressing
+* 1–2 tsp sriracha (adjust spice level)
+* Squeeze of lime
+
+👉 Creamy with a spicy kick, ideal for chicken or turkey burgers.
+
+---
+
+## 🥭 6. Mango Curry Sauce
+
+* ½ cup mayo or yogurt
+* 2 tbsp mango chutney (or purée)
+* 1 tsp curry powder
+* Pinch of cayenne
+
+👉 Sweet, fruity, and exotic — pairs beautifully with flatbread.
+
+---
