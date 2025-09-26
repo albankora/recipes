@@ -229,4 +229,16 @@ This way, you cut calories, fat, and carbs while **adding fiber, protein, and mi
 
 Would you like me to **recalculate the nutrition** for a “healthier version” (using lean beef/turkey, whole wheat flatbread, lighter sauce)?
 
+## Nutritions
+
+| Ingredient                     | Calories | Protein (g) | Carbs (g) | Fat (g) |
+|--------------------------------|----------|-------------|-----------|---------|
+| Flatbread (1)                  | 180      | 5           | 30        | 4       |
+| Beef patty (1/4 lb raw → 3 oz) | 230      | 21          | 0         | 16      |
+| Cheese slice (1)               | 70       | 4           | 1         | 6       |
+| Special sauce (2 tbsp)         | 90       | 1           | 3         | 8       |
+| Caramelized onions (2 tbsp)    | 20       | 0           | 5         | 0       |
+| Lettuce + tomato + pickles     | 15       | 1           | 3         | 0       |
+| **TOTAL (per burger)**         | **785**  | **37**      | **72**    | **38**  |
+
 
