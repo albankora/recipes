@@ -163,3 +163,70 @@ A juicy, crispy-edged smash burger wrapped in soft, chewy flatbread with smoky-g
 👉 This way, you only need **10–15 minutes of cooking** on burger night.
 
 ---
+
+Great question — a **flatbread smash burger** can definitely be lightened up while still tasting amazing. Here are some practical ways to make it healthier, broken down by each component:
+
+---
+
+## 🫓 Flatbread
+
+* **Switch to whole wheat flour** or mix half whole wheat, half all-purpose to boost fiber.
+* Use **less oil/butter** in the dough or replace with Greek yogurt for a lighter version.
+* Make smaller flatbreads (6-inch instead of 8-inch) to reduce portion size.
+
+---
+
+## 🥩 Burger Patty
+
+* Use **lean ground beef (90/10)** instead of 80/20 → less fat, still flavorful.
+* Swap for **ground turkey, chicken, or bison** for a lighter, protein-rich patty.
+* Try a **plant-based option**: lentil patties, black bean burgers, or falafel-style patties.
+
+---
+
+## 🧄 Special Sauce
+
+* Use **light mayo or Greek yogurt** instead of full mayo.
+* Cut ketchup in half or use a no-sugar-added ketchup.
+* Add more yogurt + lemon juice for tang, less fat overall.
+
+---
+
+## 🧅 Onions & Toppings
+
+* Caramelize onions in a **nonstick pan with a splash of water**, not butter, to cut fat.
+* Load up on **fresh veggies**: lettuce, tomato, cucumber, arugula, even shredded carrot.
+* Use **avocado slices** instead of cheese for creaminess (healthy fats).
+
+---
+
+## 🧀 Cheese
+
+* Use **reduced-fat cheese** or skip altogether if you like.
+* A thin slice of strong cheese (like sharp cheddar) gives flavor with less quantity.
+
+---
+
+## ⚡ Cooking & Assembly
+
+* Smash the patties thin but keep them small → less meat per burger, but still crispy.
+* Serve **open-faced** (use one flatbread folded in half) instead of two stacked.
+* Pair with a **side salad or roasted veggies** instead of fries.
+
+---
+
+### ✅ Example: Healthier Flatbread Smash Burger
+
+* Whole wheat yogurt flatbread
+* Lean ground turkey patty
+* Greek-yogurt based sauce with garlic + lemon
+* Plenty of crunchy veggies (lettuce, tomato, cucumber, arugula)
+* Just a sprinkle of cheese or none at all
+
+This way, you cut calories, fat, and carbs while **adding fiber, protein, and micronutrients**.
+
+---
+
+Would you like me to **recalculate the nutrition** for a “healthier version” (using lean beef/turkey, whole wheat flatbread, lighter sauce)?
+
+
