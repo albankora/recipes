@@ -1,115 +1,159 @@
 # Panettone with Lievito Madre
+Perfect request — this is exactly how a **professional panettone formula should be structured**.
 
-## Formula for **1 × 1 kg Panettone**
+Below is a **clean, production-ready layout** where:
 
-### Lievito Madre Requirement (Clear Answer)
+* **Primo Impasto is IDENTICAL** for all panettoni
+* **Secondo Impasto is split** into:
 
-* **260 g lievito madre per 1 kg flour** (classic range 240–270 g)
-* This formula uses **~26% LM**, ideal for strength, aroma, and clean sweetness
+  1. **Dried Fruit Version**
+  2. **Chocolate Version**
 
----
-
-## Total Flour Basis
-
-**Total flour: 500 g (100%)**
-
-This yields **one finished panettone of ~1 kg** after baking.
+This mirrors how Italian labs actually work.
 
 ---
 
-## Ingredient Breakdown
+# Panettone with Lievito Madre
 
-### Primo Impasto (First Dough – Evening)
+## 1 × 1 kg Panettone
 
-| Ingredient                                   |    Amount |
-| -------------------------------------------- | --------: |
-| Strong flour (W350+)                         |     390 g |
-| **Lievito madre (active, 40–45% hydration)** | **130 g** |
-| Water                                        |     150 g |
-| Sugar                                        |     105 g |
-| Egg yolks                                    |      85 g |
-| Unsalted butter (soft)                       |     115 g |
+### Shared Primo Impasto + Split Secondo Impasto
 
 ---
 
-### Secondo Impasto (Second Dough – Morning)
+## Lievito Madre Reference (Non-Negotiable)
 
-| Ingredient             |    Amount |
-| ---------------------- | --------: |
-| Strong flour (W350+)   |     110 g |
-| Sugar                  |      95 g |
-| Egg yolks              |     115 g |
-| Unsalted butter (soft) |     135 g |
-| Honey or malt          |      20 g |
-| Salt                   |       8 g |
-| Aromatic paste         |      q.b. |
-| Raisins & candied peel | 300–330 g |
+* **Lievito madre (40–45% hydration): 130 g**
+* **Flour basis: 500 g total**
+* LM = **26% of flour**
 
 ---
 
-### Totals (Final Dough)
+# PRIMO IMPASTO (SAME FOR ALL VERSIONS)
 
-| Ingredient        |     Total |
-| ----------------- | --------: |
-| **Flour**         | **500 g** |
-| **Lievito madre** | **130 g** |
-| Water             |     150 g |
-| Sugar             |     200 g |
-| Egg yolks         |     200 g |
-| Butter            |     250 g |
-| Fruit             | 300–330 g |
-| Salt              |       8 g |
+### Ingredients (Evening – Day 1)
 
-**Finished weight before baking:** ~1,050 g
-**Finished baked weight:** ~1,000 g
+| Ingredient                 |    Amount |
+| -------------------------- | --------: |
+| Strong flour (W350+)       |     390 g |
+| **Lievito madre (active)** | **130 g** |
+| Water                      |     150 g |
+| Sugar                      |     105 g |
+| Egg yolks                  |      85 g |
+| Unsalted butter (soft)     |     115 g |
 
 ---
 
-## Process Timeline
+### Method – Primo Impasto
 
-### Day 1 – Primo Impasto (Evening)
+1. Mix flour, water, and LM until strong gluten forms
+2. Add sugar gradually
+3. Add yolks slowly
+4. Add butter in small pieces
+5. Dough must be smooth, elastic, glossy
 
-1. **Mix**
+**Final dough temp:** 26–27°C (79–81°F)
 
-   * Flour + water + LM
-   * Develop strong gluten (windowpane)
-2. **Enrich**
+---
 
-   * Add sugar gradually
-   * Add yolks slowly
-   * Add butter in small pieces
-3. **Final dough temp:** 26–27°C (79–81°F)
-
-**Fermentation**
+### Fermentation
 
 * 24–26°C (75–79°F)
 * **Must TRIPLE**
 * Time: 10–14 hours
 
-If it does not triple → do NOT proceed.
+> If it does not triple, do not proceed.
 
 ---
 
-### Day 2 – Secondo Impasto
+# SECONDO IMPASTO – VERSION A
 
-1. Add flour to cold primo impasto
-2. Mix until elastic
-3. Add sugar, then yolks, then honey
-4. Add salt
-5. Incorporate butter slowly
-6. Fold in fruit gently at the end
+## CLASSIC DRIED FRUIT PANETTONE
 
-**Final dough temp:** 26–28°C (79–82°F)
+### Ingredients (Morning – Day 2)
+
+| Ingredient                |  Amount |
+| ------------------------- | ------: |
+| Strong flour (W350+)      |   110 g |
+| Sugar                     |    95 g |
+| Egg yolks                 |   115 g |
+| Unsalted butter (soft)    |   135 g |
+| Honey or malt             |    20 g |
+| Salt                      |     8 g |
+| Aromatic paste            |    q.b. |
+| Raisins (soaked, dried)   |   200 g |
+| Candied orange peel       |    80 g |
+| Candied citron (optional) | 30–50 g |
+
+**Total fruit:** 300–330 g
 
 ---
 
-### Shaping & Proofing
+### Method – Secondo (Fruit)
+
+1. Add flour to cold primo impasto; mix until elastic
+2. Add sugar gradually
+3. Add yolks slowly
+4. Add honey, salt, aromatics
+5. Incorporate butter in stages
+6. Fold fruit **very gently** at the end
+
+**Final dough temp:** 26–27°C (79–81°F)
+
+---
+
+# SECONDO IMPASTO – VERSION B
+
+## CHOCOLATE PANETTONE
+
+### Ingredients (Morning – Day 2)
+
+| Ingredient                    |    Amount |
+| ----------------------------- | --------: |
+| Strong flour (W350+)          |     110 g |
+| Sugar                         |      90 g |
+| Egg yolks                     |     115 g |
+| Unsalted butter (soft)        |     145 g |
+| Honey or malt                 |      20 g |
+| Salt                          |       8 g |
+| Aromatic paste (optional)     |      q.b. |
+| Dark chocolate chips (55–70%) | 220–250 g |
+
+---
+
+### Chocolate-Specific Adjustments
+
+* Sugar slightly reduced (−5 g)
+* Butter increased (+10 g)
+* Chocolate must be **cold (10–15°C)**
+* Do not exceed 250 g inclusions
+
+---
+
+### Method – Secondo (Chocolate)
+
+1. Add flour to cold primo impasto; mix to full gluten
+2. Add sugar, then yolks
+3. Add honey, salt
+4. Incorporate butter gradually
+5. **Cool dough if needed**
+6. Fold in chocolate **last**, very gently
+
+**Final dough temp:** 24–26°C (75–79°F)
+
+---
+
+# SHAPING, PROOFING & BAKING (BOTH VERSIONS)
+
+### Shaping
 
 1. Rest dough 30 minutes (covered)
-2. Shape tightly into a ball
+2. Shape tightly
 3. Place in **1 kg panettone mold**
 
-**Proof**
+---
+
+### Proofing
 
 * 28°C (82°F)
 * Dome rises **1 cm above mold**
@@ -133,15 +177,11 @@ If it does not triple → do NOT proceed.
 
 ---
 
-## Final Notes (Important)
+## Professional Notes
 
-* This formula assumes:
+* Primo impasto must be **neutral, sweet, elastic**
+* All flavor identity is built in the secondo
+* Chocolate panettone will always show:
 
-  * **Perfectly conditioned LM**
-  * Triples in **≤4 hours at 28°C**
-* If LM is weaker:
-
-  * Reduce sugar by 5–8%
-  * Or add 5–10 g extra LM (not ideal, but possible)
-
----
+  * Slightly tighter crumb
+  * Less visible shredding (normal)
