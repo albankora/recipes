@@ -35,10 +35,10 @@ This mirrors how Italian labs actually work.
 
 | Ingredient                 |    Amount |
 | -------------------------- | --------: |
-| Strong flour (W350+)       |     390 g |
+| Strong flour (W350+/Canada)|     390 g |
 | **Lievito madre (active)** | **130 g** |
 | Water                      |     150 g |
-| Sugar                      |     105 g |
+| Sugar                      |      80 g |
 | Egg yolks                  |      85 g |
 | Unsalted butter (soft)     |     115 g |
 
@@ -46,10 +46,10 @@ This mirrors how Italian labs actually work.
 
 ### Method – Primo Impasto
 
-1. Mix flour, water, and LM until strong gluten forms
-2. Add sugar gradually
-3. Add yolks slowly
-4. Add butter in small pieces
+1. Mix sugar with water till fully disolved
+2. Mix flour, LM and water mix until strong gluten forms
+3. Mix butter with yolks slowly
+4. On flour mix add butter yolk mix slowly one part at the time till fully mixed 
 5. Dough must be smooth, elastic, glossy
 
 **Final dough temp:** 26–27°C (79–81°F)
@@ -75,10 +75,10 @@ This mirrors how Italian labs actually work.
 | Ingredient                |  Amount |
 | ------------------------- | ------: |
 | Strong flour (W350+)      |   110 g |
-| Sugar                     |    95 g |
-| Egg yolks                 |   115 g |
-| Unsalted butter (soft)    |   135 g |
-| Honey or malt             |    20 g |
+| Sugar                     |    60 g |
+| Egg yolks                 |    60 g |
+| Unsalted butter (soft)    |    50 g |
+| Honey                     |    20 g |
 | Salt                      |     8 g |
 | Aromatic paste            |    q.b. |
 | Raisins (soaked, dried)   |   200 g |
@@ -92,11 +92,23 @@ This mirrors how Italian labs actually work.
 ### Method – Secondo (Fruit)
 
 1. Add flour to cold primo impasto; mix until elastic
-2. Add sugar gradually
-3. Add yolks slowly
-4. Add honey, salt, aromatics
-5. Incorporate butter in stages
-6. Fold fruit **very gently** at the end
+2. Add sugar gradually to primo impasto
+3. Mix butter with yolks slowly
+4. Add butter with yolks slowly to primo impasto
+5. Add honey, salt, aromatics
+6. Incorporate butter in stages
+7. Fold fruit **very gently** at the end
+8. Meanwhile, mix the fruit and the cider together
+9. Check if the dough is ready (window paning) if so, add the fruit and mix
+10. Once mixed let the dough rest for 20minutes.
+11. Shape the dough into a round boule (by coil technique).
+12. Weigh the dough to see if it will fit in the mold (this recipe makes 1.5kg)
+13. Place in mold and let rise for 6-8 hours
+14. Preheat the oven to 175 degrees 
+21. Sit the panettone in the open air for 30min to form a crust, then cut a cross with a blade and put a knob of butter in the centre of the crust
+22. Cook the panettone for 50min
+23. Once cooked pierce with two skewers, flip upside down and let cool overnight
+24. Close in a food bag for 2 days to let it express its flavours
 
 **Final dough temp:** 26–27°C (79–81°F)
 
