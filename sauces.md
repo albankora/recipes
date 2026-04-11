@@ -1,6 +1,6 @@
 # Sauce
 
-## Tirokafteri
+## Tirokafteri (100g / 265 kcal)
 
 ### Ingredients
 
@@ -42,7 +42,7 @@
 
 ---
 
-## Hummus
+## Hummus (100g / 290 kcal)
 
 ### Ingredients
 
@@ -84,13 +84,13 @@
 
 ---
 
-## Olive–Herb–Feta Cream
+## Olive–Herb–Feta Mix (100g / 200 kcal) 
 
 ### Ingredients
 
-* Mixed olives, pitted
+* 400g Whole olives
 * Fresh parsley
-* 150–200 g feta cheese
+* 200 g feta cheese
 * 1–2 garlic cloves
 * Olive oil
 * Juice of 1 lemon
