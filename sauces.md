@@ -6,108 +6,127 @@
 
 * 400 g Greek feta
 * 150 g Greek yogurt
-* 1 hot pepper (fresh)
-* ½ tsp chili seeds
-* 3 cloves garlic
+* 1 fresh hot pepper
+* 1/2 tsp chili seeds
+* 3 garlic cloves
 * 4–5 tbsp olive oil
-* Black pepper
+* Black pepper, to taste
 
 ---
 
 ### Method
 
 1. **Prep the pepper**
-   Remove seeds if you want less heat, or keep them for extra spice.
+   Remove the seeds if you want less heat, or keep them in for a spicier result.
 
-2. **Blend base**
-   Add feta, yogurt, garlic, and hot pepper into a blender or food processor.
+2. **Blend the base**
+   Add the feta, Greek yogurt, garlic, and hot pepper to a blender or food processor.
 
-3. **Add oil slowly**
-   While blending, drizzle in the olive oil to create a smooth, creamy texture.
+3. **Add the oil slowly**
+   While blending, drizzle in the olive oil until the mixture becomes smooth and creamy.
 
 4. **Season**
-   Add chili seeds and black pepper. Taste and adjust heat if needed.
+   Add the chili seeds and black pepper. Taste and adjust the heat or pepper as needed.
 
-5. **Texture control**
-   Blend until smooth or leave slightly grainy depending on your preference.
+5. **Adjust the texture**
+   Blend until fully smooth, or leave it slightly grainy if you prefer a more rustic texture.
 
 ---
 
 ### Notes / Chef Tips
 
-* This version is **strong, spicy, and bold** (no roasted pepper or acid like lemon/vinegar).
-* If it feels too thick → add a bit more olive oil or a spoon of yogurt.
-* If it’s too salty (depends on feta) → yogurt helps balance it.
-* Rest it in the fridge for 1–2 hours before serving—flavor improves a lot.
+* This version is **strong, spicy, and bold**, with no roasted pepper or added acid like lemon or vinegar.
+* If it feels too thick, add a little more olive oil or a spoonful of yogurt.
+* If it tastes too salty, the yogurt helps balance it.
+* Let it rest in the fridge for 1–2 hours before serving for better flavor.
 
 ---
 
-## Hummus Recipe Card
+## Hummus
 
-**Creamy Lime & Tahini Hummus**
-
-**Ingredients**
+### Ingredients
 
 * 1 x 400 g can chickpeas, drained
-* 1 1/2 large spoons tahini
+* 1 1/2 tbsp tahini
 * Juice of 2 limes
 * 3 garlic cloves
-* 5 large spoons olive oil
+* 5 tbsp olive oil
 * A pinch of salt
 * A pinch of black pepper
-
-**Method**
-
-1. Drain the chickpeas and add them to a blender or food processor.
-2. Add the tahini, lime juice, garlic, olive oil, salt, and black pepper.
-3. Blend until smooth and creamy.
-4. Taste and adjust the seasoning if needed.
-5. Serve immediately, or chill before serving.
-
-**Tips**
-
-* Add a little cold water if you want a smoother, lighter texture.
-* Drizzle with extra olive oil before serving.
-* Great with pita, crackers, or chopped vegetables.
-
-**Optional Garnish**
-
-* A swirl of olive oil
-* A pinch of black pepper
-* A few whole chickpeas
 
 ---
 
-## Hummus Recipe Card
+### Method
 
-**Creamy Lime & Tahini Hummus**
+1. **Prepare the chickpeas**
+   Drain the chickpeas and add them to a blender or food processor.
 
-**Ingredients**
+2. **Add the ingredients**
+   Add the tahini, lime juice, garlic, olive oil, salt, and black pepper.
 
-* 1 x 400 g can chickpeas, drained
-* 1 1/2 large spoons tahini
-* Juice of 2 limes
-* 3 garlic cloves
-* 5 large spoons olive oil
-* A pinch of salt
-* A pinch of black pepper
+3. **Blend until smooth**
+   Blend until the hummus is creamy and smooth.
 
-**Method**
+4. **Taste and adjust**
+   Add more salt, lime juice, or olive oil if needed to balance the flavor and texture.
 
-1. Drain the chickpeas and add them to a blender or food processor.
-2. Add the tahini, lime juice, garlic, olive oil, salt, and black pepper.
-3. Blend until smooth and creamy.
-4. Taste and adjust the seasoning if needed.
-5. Serve immediately, or chill before serving.
+5. **Serve**
+   Serve immediately, or chill before serving.
 
-**Tips**
+---
 
-* Add a little cold water if you want a smoother, lighter texture.
-* Drizzle with extra olive oil before serving.
-* Great with pita, crackers, or chopped vegetables.
+### Notes / Chef Tips
 
-**Optional Garnish**
+* For a smoother texture, add a little cold water while blending.
+* Drizzle with extra olive oil before serving for a richer finish.
+* Great served with pita, crackers, or chopped vegetables.
+* For a more polished presentation, garnish with a few whole chickpeas and a pinch of black pepper.
 
-* A swirl of olive oil
-* A pinch of black pepper
-* A few whole chickpeas
+---
+
+## Olive–Herb–Feta Cream
+
+### Ingredients
+
+* Mixed olives, pitted
+* Fresh parsley
+* 150–200 g feta cheese
+* 1–2 garlic cloves
+* Olive oil
+* Juice of 1 lemon
+* Black pepper
+* Finely chopped Florina peppers, folded in at the end
+
+---
+
+### Method
+
+1. **Prepare the base**
+   Add the olives, parsley, feta, garlic, olive oil, lemon juice, and black pepper to a blender or food processor.
+
+2. **Blend to a coarse cream**
+   Blend until the mixture becomes creamy but still slightly textured. It should not be completely smooth.
+
+3. **Add the Florina peppers**
+   Fold in the finely chopped Florina peppers after blending for freshness and a mild sweetness.
+
+4. **Taste and adjust**
+   Add more lemon juice, olive oil, or black pepper if needed.
+
+5. **Serve**
+   Chill slightly before serving, or serve straight away as part of a meze spread.
+
+---
+
+### Notes / Chef Tips
+
+* This spread works best with a **coarse, rustic texture** rather than a fully smooth puree.
+* The olives bring saltiness, so taste before adding anything extra.
+* Florina peppers added at the end keep the flavor fresher and brighter.
+* Delicious with warm pita, grilled meats, or raw vegetables.
+
+---
+
+## Serving Idea
+
+Serve all **three** together with warm pita bread, grilled meats, or vegetables for a simple Mediterranean-style meze platter.
