@@ -10,7 +10,6 @@
 | ----------------------------------------- | -------------------: |
 | Plain Greek yoghurt                       |        **150–200 g** |
 | Kefir                                     |           **200 ml** |
-| Oats                                      |          **50–60 g** |
 | Raspberries, blackberries or strawberries |        **100–150 g** |
 | Wholemeal or seeded bread                 |          **1 slice** |
 | Peanut butter                             | **1 tbsp / 15–20 g** |
