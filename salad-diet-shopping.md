@@ -1,75 +1,71 @@
-# Shopping list
+# Low-sugar, lower-carb shopping list
 
-**shopping list** for the latest **1-person, 7-day, no-snack meal plan**.
+## Core rules
 
-This covers:
-
-* Daily breakfast
-* 14 salads
-* No snacks
-* 1 egg per day
-* 2 chicken portions
-* 2 fish portions
-* No halloumi, blue cheese or bacon
-* 30+ plant foods
+| Rule          | Use                                                      |
+| ------------- | -------------------------------------------------------- |
+| Breakfast     | Greek yoghurt or kefir, berries, egg, seeds              |
+| Lunch/dinner  | Big salad + protein + healthy fat                        |
+| Beans/lentils | Small side portion only                                  |
+| Fruit         | Mostly berries, kiwi occasionally                        |
+| Dressing      | Olive oil, lemon/lime, vinegar, Dijon, herbs             |
 
 ---
 
-# Weekly shopping list
+# Week 1 shopping list
 
 ## Breakfast
 
-| Item                                                      |      Buy approx. |
-| --------------------------------------------------------- | ---------------: |
-| Plain Greek yoghurt                                       |       **1.5 kg** |
-| Kefir                                                     | **1.5–2 litres** |
-| Eggs                                                      |   **10–12 eggs** |
-| Oats                                                      |    **500 g bag** |
-| Frozen berries: raspberries, blackberries or strawberries |         **1 kg** |
-| Wholemeal or seeded bread                                 |       **1 loaf** |
-| Peanut butter                                             |        **1 jar** |
+| Item                                                      |     Buy approx. |
+| --------------------------------------------------------- | --------------: |
+| Plain Greek yoghurt, unsweetened                          |        **1 kg** |
+| Plain kefir, unsweetened                                  |     **1 litre** |
+| Eggs                                                      |     **10 eggs** |
+| Frozen berries: raspberries, blackberries or strawberries |  **750 g–1 kg** |
+| 100% peanut butter, no added sugar                        |       **1 jar** |
+| Chia seeds                                                | **1 small bag** |
+| Ground flaxseed                                           | **1 small bag** |
 
 ---
 
 ## Fresh vegetables and herbs
 
-| Item                       |                           Buy approx. |
-| -------------------------- | ------------------------------------: |
-| Romaine lettuce            |                           **2 heads** |
-| Spinach                    |                         **350–400 g** |
-| Rocket/arugula             |                             **300 g** |
-| Cucumbers                  |                           **3 large** |
-| Tomatoes / cherry tomatoes |                              **1 kg** |
-| Red onions                 |                                 **2** |
-| Spring onions              |                           **1 bunch** |
-| Bell peppers               |                   **3 mixed colours** |
-| Courgettes/zucchini        |                                 **2** |
-| Carrots                    |                         **500 g bag** |
-| Red cabbage                | **1 small** or **300 g shredded bag** |
-| Radishes                   |                           **1 bunch** |
-| Green beans                |                             **150 g** |
-| Baby potatoes              |                             **250 g** |
-| Sweet potato               |                    **1 medium/large** |
-| Cooked beetroot            |                        **250 g pack** |
-| Mushrooms                  |                             **200 g** |
-| Avocados                   |                                 **3** |
-| Garlic                     |                            **1 bulb** |
-| Fresh parsley              |                           **1 bunch** |
-| Fresh mint                 |                           **1 bunch** |
-| Fresh coriander/cilantro   |                           **1 bunch** |
+| Item                       |                       Buy approx. |
+| -------------------------- | --------------------------------: |
+| Romaine lettuce            |                       **2 heads** |
+| Spinach                    |                     **350–400 g** |
+| Rocket/arugula             |                     **250–300 g** |
+| Cucumbers                  |                       **3 large** |
+| Tomatoes / cherry tomatoes |                    **750 g–1 kg** |
+| Red onions                 |                             **2** |
+| Spring onions              |                       **1 bunch** |
+| Bell peppers               |               **3 mixed colours** |
+| Courgettes/zucchini        |                             **2** |
+| Carrots                    |                     **300–500 g** |
+| Red cabbage                | **1 small** or **300 g shredded** |
+| Radishes                   |                       **1 bunch** |
+| Green beans                |                         **200 g** |
+| Cauliflower                |                       **1 large** |
+| Mushrooms                  |                         **250 g** |
+| Avocados                   |                             **3** |
+| Celery                     |                       **1 bunch** |
+| Garlic                     |                        **1 bulb** |
+| Fresh parsley              |                       **1 bunch** |
+| Fresh mint                 |                       **1 bunch** |
+| Fresh coriander/cilantro   |                       **1 bunch** |
 
 ---
 
 ## Fruit and citrus
 
-| Item   | Buy approx. |
-| ------ | ----------: |
-| Mango  |       **1** |
-| Pears  |       **2** |
-| Lemons |       **5** |
-| Limes  |       **3** |
+| Item                              |                     Buy approx. |
+| --------------------------------- | ------------------------------: |
+| Lemons                            |                           **5** |
+| Limes                             |                           **3** |
+| Kiwi                              |                         **2–3** |
+| Fresh raspberries or blackberries | **1–2 small punnets, optional** |
 
-Apple is no longer required unless you want it as an optional extra, because the lentil salad now uses **pear**.
+You already have frozen berries, so fresh berries are optional.
 
 ---
 
@@ -84,25 +80,21 @@ Apple is no longer required unless you want it as an optional extra, because the
 | Firm tofu                             |    **1 block, 200–250 g** |
 | Lean steak                            |             **150 g raw** |
 
-This gives your planned **2 chicken portions** and **2 fish portions**.
+Check turkey slices for added sugar, honey, starch or sweet glaze.
 
 ---
 
-## Beans, grains and carbs
+## Small nutrient side portions
 
-| Item                           |               Buy approx. |
-| ------------------------------ | ------------------------: |
-| Chickpeas                      |        **3 x 400 g cans** |
-| Black beans                    |         **1 x 400 g can** |
-| Cooked lentils                 |        **1 can or pouch** |
-| Edamame                        |    **1 small frozen bag** |
-| Sweetcorn                      |           **1 small can** |
-| Quinoa                         |           **1 small bag** |
-| Wholewheat pasta               |           **1 small bag** |
-| Couscous                       |           **1 small bag** |
-| Wholegrain wraps or brown rice |                **1 pack** |
-| Wholegrain croutons            |           **1 small bag** |
-| Tortilla chips                 | **optional, 1 small bag** |
+These are **not salad bases**. Use them as small sides.
+
+| Item        |               Buy approx. |       Portion guide |
+| ----------- | ------------------------: | ------------------: |
+| Black beans |         **1 x 400 g can** |        **3–5 tbsp** |
+| Edamame     |    **1 small frozen bag** |           **½ cup** |
+| Quinoa      | **1 small bag, optional** | **2–3 tbsp cooked** |
+
+Use quinoa only once or twice in the week. It is healthy, but still a carb.
 
 ---
 
@@ -114,8 +106,6 @@ This gives your planned **2 chicken portions** and **2 fish portions**.
 | Mozzarella |                    **1 ball** |
 | Parmesan   | **small wedge or grated tub** |
 
-No halloumi, blue cheese or goat cheese needed.
-
 ---
 
 ## Nuts, seeds and extras
@@ -125,48 +115,190 @@ No halloumi, blue cheese or goat cheese needed.
 | Pumpkin seeds    | **1 small bag** |
 | Walnuts          | **1 small bag** |
 | Unsalted peanuts | **1 small bag** |
+| Olives           |       **1 jar** |
 
-Chia seeds are not needed for this version.
+**Added:** olives. They are low sugar, low carb, and useful for Mediterranean-style salads.
 
 ---
 
 ## Dressings and pantry
 
-| Item                       |        Buy approx. |
-| -------------------------- | -----------------: |
-| Olive oil                  |     **250–500 ml** |
-| Lower-salt Caesar dressing | **1 small bottle** |
-| Balsamic vinegar           |       **1 bottle** |
-| Balsamic glaze             | **1 small bottle** |
-| Dijon mustard              |          **1 jar** |
-| Low-salt soy sauce         | **1 small bottle** |
-| Salsa                      |          **1 jar** |
-| Iodised salt               |    **1 small tub** |
-| Black pepper               |             pantry |
-| Dried oregano              |             pantry |
-| Smoked paprika             |             pantry |
-| Cumin                      |             pantry |
-| Chilli flakes              |           optional |
+| Item                 |        Buy approx. |
+| -------------------- | -----------------: |
+| Olive oil            |     **250–500 ml** |
+| Apple cider vinegar  |       **1 bottle** |
+| Balsamic vinegar     |       **1 bottle** |
+| Dijon mustard        |          **1 jar** |
+| Low-salt soy sauce   | **1 small bottle** |
+| No-added-sugar salsa |          **1 jar** |
+| Iodised salt         |    **1 small tub** |
+| Black pepper         |         **pantry** |
+| Dried oregano        |         **pantry** |
+| Smoked paprika       |         **pantry** |
+| Cumin                |         **pantry** |
+| Chilli flakes        |       **optional** |
+
+Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar and low carb; some salad dressings contain added sugar. ([Diabetes UK][3])
 
 ---
 
-## Winter supplement
+# Week 2 shopping list
 
-| Item      |                               Buy |
-| --------- | --------------------------------: |
-| Vitamin D | **10 micrograms daily in winter** |
+## Breakfast
+
+| Item                             |        Buy approx. |
+| -------------------------------- | -----------------: |
+| Plain Greek yoghurt, unsweetened |           **1 kg** |
+| Plain kefir, unsweetened         |        **1 litre** |
+| Eggs                             |        **10 eggs** |
+| Frozen berries                   |     **750 g–1 kg** |
+| Peanut butter                    | **only if needed** |
+| Chia seeds or flaxseed           | **only if needed** |
 
 ---
 
-# Freshness tip
+## Fresh vegetables and herbs
 
-For best quality, buy these halfway through the week if possible:
+| Item                         |         Buy approx. |
+| ---------------------------- | ------------------: |
+| Romaine lettuce              |         **2 heads** |
+| Spinach                      |       **350–400 g** |
+| Rocket/arugula               |       **250–300 g** |
+| Cucumbers                    |         **3 large** |
+| Tomatoes / cherry tomatoes   |      **750 g–1 kg** |
+| Red onions                   |               **2** |
+| Spring onions                |         **1 bunch** |
+| Bell peppers                 | **3 mixed colours** |
+| Courgettes/zucchini          |               **2** |
+| Aubergine/eggplant           |         **1 large** |
+| Broccoli                     |    **1 large head** |
+| Celeriac                     |        **1 medium** |
+| White cabbage or red cabbage |         **1 small** |
+| Radishes                     |         **1 bunch** |
+| Mushrooms                    |           **250 g** |
+| Avocados                     |               **3** |
+| Celery                       |         **1 bunch** |
+| Garlic                       |          **1 bulb** |
+| Fresh parsley                |         **1 bunch** |
+| Fresh basil or dill          |         **1 bunch** |
+| Fresh coriander/cilantro     |         **1 bunch** |
 
-* Rocket
-* Spinach
-* Romaine
-* Fresh herbs
-* Avocados
-* Salmon
+**Added:** broccoli, aubergine, celeriac and cabbage rotation. These give you more variety without relying on rice, pasta or potatoes.
 
-Frozen berries are best for the breakfast because they are cheaper, last longer, and reduce waste.
+---
+
+## Fruit and citrus
+
+| Item                         |                     Buy approx. |
+| ---------------------------- | ------------------------------: |
+| Lemons                       |                           **5** |
+| Limes                        |                           **3** |
+| Kiwi                         |                           **2** |
+| Strawberries or blackberries | **1–2 small punnets, optional** |
+
+No mango, grapes, pears or apples for the main plan.
+
+---
+
+## Protein
+
+| Item                                  |               Buy approx. |
+| ------------------------------------- | ------------------------: |
+| Chicken breast                        |         **300–350 g raw** |
+| Sardines, mackerel or tuna            |                 **1 can** |
+| White fish or salmon fillet           | **1 fillet, about 150 g** |
+| Turkey breast or cooked turkey slices |                 **100 g** |
+| Firm tofu or tempeh                   |    **1 block, 200–250 g** |
+| Lean steak or lean mince              |             **150 g raw** |
+
+---
+
+## Small nutrient side portions
+
+| Item                     |            Buy approx. | Portion guide |
+| ------------------------ | ---------------------: | ------------: |
+| Cooked lentils           |     **1 can or pouch** |  **3–5 tbsp** |
+| Edamame                  | **1 small frozen bag** |     **½ cup** |
+| Black beans              |    **1 can, optional** |  **3–5 tbsp** |
+
+For your goal, I would choose **lentils + edamame** in Week 2. Only buy the extra beans/chickpeas if you know you will use them in small portions.
+
+---
+
+## Cheese and dairy for salads
+
+| Item               |        Buy approx. |
+| ------------------ | -----------------: |
+| Feta or mozzarella |       **choose 1** |
+| Parmesan           | **only if needed** |
+
+You do not need three cheeses every week.
+
+---
+
+## Nuts, seeds and extras
+
+| Item                                  |         Buy approx. |
+| ------------------------------------- | ------------------: |
+| Pumpkin seeds                         |  **only if needed** |
+| Walnuts                               |  **only if needed** |
+| Unsalted peanuts                      |  **only if needed** |
+| Olives                                |  **only if needed** |
+| Pickles or cornichons, no added sugar | **1 jar, optional** |
+
+---
+
+## Dressings and pantry
+
+| Item                 |        Buy approx. |
+| -------------------- | -----------------: |
+| Olive oil            | **only if needed** |
+| Apple cider vinegar  | **only if needed** |
+| Balsamic vinegar     | **only if needed** |
+| Dijon mustard        | **only if needed** |
+| Low-salt soy sauce   | **only if needed** |
+| No-added-sugar salsa | **only if needed** |
+| Iodised salt         | **only if needed** |
+
+---
+
+# Best dressing combinations
+
+| Dressing         | Ingredients                                       |
+| ---------------- | ------------------------------------------------- |
+| Lemon herb       | Olive oil + lemon + Dijon + parsley               |
+| Lime coriander   | Olive oil + lime + coriander + chilli flakes      |
+| Balsamic Dijon   | Olive oil + small amount balsamic vinegar + Dijon |
+| Soy ginger style | Low-salt soy sauce + lime + garlic + chilli       |
+| Creamy yoghurt   | Greek yoghurt + lemon + garlic + herbs            |
+
+---
+
+# Items to avoid for this version
+
+| Avoid                        | Reason                      |
+| ---------------------------- | --------------------------- |
+| Wholewheat pasta             | Still high carb             |
+| Couscous                     | High carb and less filling  |
+| Brown rice                   | High carb                   |
+| Standard wraps               | Usually high carb           |
+| Bread                        | Easy to push carbs too high |
+| Oats                         | Healthy, but carb-dense     |
+| Mango, grapes, pears, apples | Higher sugar fruit          |
+| Potatoes and sweet potatoes  | Starchy                     |
+| Sweetcorn                    | Starchy/sweeter vegetable   |
+| Balsamic glaze               | Often sugary                |
+| Sweet chilli sauce           | High sugar                  |
+| Flavoured yoghurt/kefir      | Often high sugar            |
+
+---
+
+# Final plate structure
+
+| Plate part          | Example                                     |
+| ------------------- | ------------------------------------------- |
+| Big salad base      | Romaine, spinach, rocket, cucumber, cabbage |
+| Protein             | Chicken, fish, egg, tofu, turkey, steak     |
+| Healthy fat         | Avocado, olive oil, olives, seeds, walnuts  |
+| Small nutrient side | 3–5 tbsp lentils or beans, or ½ cup edamame |
+| Dressing            | Lemon/lime + olive oil + Dijon/herbs        |
