@@ -1,30 +1,18 @@
-# Low-sugar, lower-carb shopping list
-
-## Core rules
-
-| Rule          | Use                                                      |
-| ------------- | -------------------------------------------------------- |
-| Breakfast     | Greek yoghurt or kefir, berries, egg, seeds              |
-| Lunch/dinner  | Big salad + protein + healthy fat                        |
-| Beans/lentils | Small side portion only                                  |
-| Fruit         | Mostly berries, kiwi occasionally                        |
-| Dressing      | Olive oil, lemon/lime, vinegar, Dijon, herbs             |
-
----
+# 2-week low-sugar, lower-carb shopping list
 
 # Week 1 shopping list
 
 ## Breakfast
 
-| Item                                                      |     Buy approx. |
-| --------------------------------------------------------- | --------------: |
-| Plain Greek yoghurt, unsweetened                          |        **1 kg** |
-| Plain kefir, unsweetened                                  |     **1 litre** |
-| Eggs                                                      |     **10 eggs** |
-| Frozen berries: raspberries, blackberries or strawberries |  **750 g–1 kg** |
-| 100% peanut butter, no added sugar                        |       **1 jar** |
-| Chia seeds                                                | **1 small bag** |
-| Ground flaxseed                                           | **1 small bag** |
+| Item                                             |     Buy approx. |
+| ------------------------------------------------ | --------------: |
+| Plain Greek yoghurt, unsweetened                 |        **1 kg** |
+| Plain kefir, unsweetened                         |     **1 litre** |
+| Eggs                                             |     **10 eggs** |
+| Frozen raspberries / blackberries / strawberries |  **750 g–1 kg** |
+| 100% peanut butter, no added sugar               |       **1 jar** |
+| Chia seeds                                       | **1 small bag** |
+| Ground flaxseed                                  | **1 small bag** |
 
 ---
 
@@ -40,12 +28,10 @@
 | Red onions                 |                             **2** |
 | Spring onions              |                       **1 bunch** |
 | Bell peppers               |               **3 mixed colours** |
-| Courgettes/zucchini        |                             **2** |
+| Courgettes/zucchini        |                           **2–3** |
 | Carrots                    |                     **300–500 g** |
 | Red cabbage                | **1 small** or **300 g shredded** |
 | Radishes                   |                       **1 bunch** |
-| Green beans                |                         **200 g** |
-| Cauliflower                |                       **1 large** |
 | Mushrooms                  |                         **250 g** |
 | Avocados                   |                             **3** |
 | Celery                     |                       **1 bunch** |
@@ -56,6 +42,23 @@
 
 ---
 
+## Low-carb vegetables
+
+These are the best additions you were missing.
+
+| Item                            |           Buy approx. | Use                          |
+| ------------------------------- | --------------------: | ---------------------------- |
+| Okra                            |         **300–400 g** | Side portion, sautéed/stewed |
+| Green beans                     |         **300–400 g** | Side portion or salad veg    |
+| Asparagus                       |           **1 bunch** | Side portion                 |
+| Tenderstem broccoli or broccoli | **1 large pack/head** | Side portion                 |
+| Aubergine/eggplant              |           **1 large** | Roasted or grilled           |
+| Pak choi / bok choy             |         **1–2 heads** | Stir-fry side                |
+| Kale or cavolo nero             |         **200–300 g** | Salad or cooked side         |
+| Fennel                          |  **1 bulb**, optional | Crunchy salad veg            |
+
+---
+
 ## Fruit and citrus
 
 | Item                              |                     Buy approx. |
@@ -63,9 +66,9 @@
 | Lemons                            |                           **5** |
 | Limes                             |                           **3** |
 | Kiwi                              |                         **2–3** |
-| Fresh raspberries or blackberries | **1–2 small punnets, optional** |
+| Fresh raspberries or blackberries | **1–2 small punnets**, optional |
 
-You already have frozen berries, so fresh berries are optional.
+Keep fruit mostly to **berries**. Kiwi is fine, but keep it measured.
 
 ---
 
@@ -80,21 +83,19 @@ You already have frozen berries, so fresh berries are optional.
 | Firm tofu                             |    **1 block, 200–250 g** |
 | Lean steak                            |             **150 g raw** |
 
-Check turkey slices for added sugar, honey, starch or sweet glaze.
-
 ---
 
 ## Small nutrient side portions
 
-These are **not salad bases**. Use them as small sides.
+These are **not salad fillers**. They are small side portions.
 
-| Item        |               Buy approx. |       Portion guide |
-| ----------- | ------------------------: | ------------------: |
-| Black beans |         **1 x 400 g can** |        **3–5 tbsp** |
-| Edamame     |    **1 small frozen bag** |           **½ cup** |
-| Quinoa      | **1 small bag, optional** | **2–3 tbsp cooked** |
+| Item                 |            Buy approx. | Portion guide |
+| -------------------- | ---------------------: | ------------: |
+| Black beans          |      **1 x 400 g can** |  **3–5 tbsp** |
+| Edamame              | **1 small frozen bag** |     **½ cup** |
+| Frozen peas / bizele |        **1 small bag** |   **⅓–½ cup** |
 
-Use quinoa only once or twice in the week. It is healthy, but still a carb.
+Peas/bizele are healthy, but use a smaller portion than okra or green beans because they are more starchy.
 
 ---
 
@@ -110,14 +111,13 @@ Use quinoa only once or twice in the week. It is healthy, but still a carb.
 
 ## Nuts, seeds and extras
 
-| Item             |     Buy approx. |
-| ---------------- | --------------: |
-| Pumpkin seeds    | **1 small bag** |
-| Walnuts          | **1 small bag** |
-| Unsalted peanuts | **1 small bag** |
-| Olives           |       **1 jar** |
-
-**Added:** olives. They are low sugar, low carb, and useful for Mediterranean-style salads.
+| Item                               |         Buy approx. |
+| ---------------------------------- | ------------------: |
+| Pumpkin seeds                      |     **1 small bag** |
+| Walnuts                            |     **1 small bag** |
+| Unsalted peanuts                   |     **1 small bag** |
+| Olives                             |           **1 jar** |
+| Pickles/cornichons, no added sugar | **1 jar**, optional |
 
 ---
 
@@ -138,8 +138,6 @@ Use quinoa only once or twice in the week. It is healthy, but still a carb.
 | Cumin                |         **pantry** |
 | Chilli flakes        |       **optional** |
 
-Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar and low carb; some salad dressings contain added sugar. ([Diabetes UK][3])
-
 ---
 
 # Week 2 shopping list
@@ -153,7 +151,7 @@ Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar a
 | Eggs                             |        **10 eggs** |
 | Frozen berries                   |     **750 g–1 kg** |
 | Peanut butter                    | **only if needed** |
-| Chia seeds or flaxseed           | **only if needed** |
+| Chia seeds / flaxseed            | **only if needed** |
 
 ---
 
@@ -169,10 +167,7 @@ Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar a
 | Red onions                   |               **2** |
 | Spring onions                |         **1 bunch** |
 | Bell peppers                 | **3 mixed colours** |
-| Courgettes/zucchini          |               **2** |
-| Aubergine/eggplant           |         **1 large** |
-| Broccoli                     |    **1 large head** |
-| Celeriac                     |        **1 medium** |
+| Courgettes/zucchini          |             **2–3** |
 | White cabbage or red cabbage |         **1 small** |
 | Radishes                     |         **1 bunch** |
 | Mushrooms                    |           **250 g** |
@@ -183,7 +178,22 @@ Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar a
 | Fresh basil or dill          |         **1 bunch** |
 | Fresh coriander/cilantro     |         **1 bunch** |
 
-**Added:** broccoli, aubergine, celeriac and cabbage rotation. These give you more variety without relying on rice, pasta or potatoes.
+---
+
+## Okra-style low-carb vegetable rotation
+
+| Item                            |           Buy approx. | Use |
+| ------------------------------- | --------------------: | --- |
+| Okra                            |         **300–400 g** |     |
+| Green beans                     |         **300–400 g** |     |
+| Cauliflower                     |           **1 large** |     |
+| Broccoli or tenderstem broccoli | **1 large head/pack** |     |
+| Celeriac                        |          **1 medium** |     |
+| Aubergine/eggplant              |           **1 large** |     |
+| Pak choi / bok choy             |         **1–2 heads** |     |
+| Asparagus                       | **1 bunch**, optional |     |
+
+Celeriac is not as low-carb as cucumber or spinach, but it is still a better occasional replacement for potatoes.
 
 ---
 
@@ -194,9 +204,7 @@ Avoid or limit bottled Caesar dressing unless the label is genuinely low sugar a
 | Lemons                       |                           **5** |
 | Limes                        |                           **3** |
 | Kiwi                         |                           **2** |
-| Strawberries or blackberries | **1–2 small punnets, optional** |
-
-No mango, grapes, pears or apples for the main plan.
+| Strawberries or blackberries | **1–2 small punnets**, optional |
 
 ---
 
@@ -215,13 +223,13 @@ No mango, grapes, pears or apples for the main plan.
 
 ## Small nutrient side portions
 
-| Item                     |            Buy approx. | Portion guide |
-| ------------------------ | ---------------------: | ------------: |
-| Cooked lentils           |     **1 can or pouch** |  **3–5 tbsp** |
-| Edamame                  | **1 small frozen bag** |     **½ cup** |
-| Black beans              |    **1 can, optional** |  **3–5 tbsp** |
+| Item                 |               Buy approx. | Portion guide |
+| -------------------- | ------------------------: | ------------: |
+| Cooked lentils       |        **1 can or pouch** |  **3–5 tbsp** |
+| Edamame              |    **1 small frozen bag** |     **½ cup** |
+| Frozen peas / bizele | **1 small bag**, optional |   **⅓–½ cup** |
 
-For your goal, I would choose **lentils + edamame** in Week 2. Only buy the extra beans/chickpeas if you know you will use them in small portions.
+For Week 2, I would use **lentils + edamame**, and only buy peas if you want extra variety.
 
 ---
 
@@ -232,19 +240,17 @@ For your goal, I would choose **lentils + edamame** in Week 2. Only buy the extr
 | Feta or mozzarella |       **choose 1** |
 | Parmesan           | **only if needed** |
 
-You do not need three cheeses every week.
-
 ---
 
 ## Nuts, seeds and extras
 
-| Item                                  |         Buy approx. |
-| ------------------------------------- | ------------------: |
-| Pumpkin seeds                         |  **only if needed** |
-| Walnuts                               |  **only if needed** |
-| Unsalted peanuts                      |  **only if needed** |
-| Olives                                |  **only if needed** |
-| Pickles or cornichons, no added sugar | **1 jar, optional** |
+| Item                               |        Buy approx. |
+| ---------------------------------- | -----------------: |
+| Pumpkin seeds                      | **only if needed** |
+| Walnuts                            | **only if needed** |
+| Unsalted peanuts                   | **only if needed** |
+| Olives                             | **only if needed** |
+| Pickles/cornichons, no added sugar | **only if needed** |
 
 ---
 
@@ -262,43 +268,46 @@ You do not need three cheeses every week.
 
 ---
 
-# Best dressing combinations
+# Best low-carb side-portion rotation
 
-| Dressing         | Ingredients                                       |
-| ---------------- | ------------------------------------------------- |
-| Lemon herb       | Olive oil + lemon + Dijon + parsley               |
-| Lime coriander   | Olive oil + lime + coriander + chilli flakes      |
-| Balsamic Dijon   | Olive oil + small amount balsamic vinegar + Dijon |
-| Soy ginger style | Low-salt soy sauce + lime + garlic + chilli       |
-| Creamy yoghurt   | Greek yoghurt + lemon + garlic + herbs            |
+Use these instead of relying too much on lentils/beans:
 
----
+| Best for very low-carb days |   Best portion |
+| --------------------------- | -------------: |
+| Okra                        |  **100–150 g** |
+| Green beans                 |  **100–200 g** |
+| Asparagus                   |  **100–150 g** |
+| Broccoli                    |  **100–200 g** |
+| Courgette/zucchini          |   **1 medium** |
+| Aubergine/eggplant          | **½–1 medium** |
+| Pak choi / bok choy         |  **1–2 heads** |
+| Mushrooms                   |  **150–200 g** |
 
-# Items to avoid for this version
+For nutrient-dense but slightly higher-carb sides:
 
-| Avoid                        | Reason                      |
-| ---------------------------- | --------------------------- |
-| Wholewheat pasta             | Still high carb             |
-| Couscous                     | High carb and less filling  |
-| Brown rice                   | High carb                   |
-| Standard wraps               | Usually high carb           |
-| Bread                        | Easy to push carbs too high |
-| Oats                         | Healthy, but carb-dense     |
-| Mango, grapes, pears, apples | Higher sugar fruit          |
-| Potatoes and sweet potatoes  | Starchy                     |
-| Sweetcorn                    | Starchy/sweeter vegetable   |
-| Balsamic glaze               | Often sugary                |
-| Sweet chilli sauce           | High sugar                  |
-| Flavoured yoghurt/kefir      | Often high sugar            |
+| Food          | Best portion |
+| ------------- | -----------: |
+| Lentils       | **3–5 tbsp** |
+| Black beans   | **3–5 tbsp** |
+| Edamame       |    **½ cup** |
+| Peas / bizele |  **⅓–½ cup** |
 
----
+# Final simple structure
 
-# Final plate structure
+Each lunch/dinner should look like this:
 
-| Plate part          | Example                                     |
-| ------------------- | ------------------------------------------- |
-| Big salad base      | Romaine, spinach, rocket, cucumber, cabbage |
-| Protein             | Chicken, fish, egg, tofu, turkey, steak     |
-| Healthy fat         | Avocado, olive oil, olives, seeds, walnuts  |
-| Small nutrient side | 3–5 tbsp lentils or beans, or ½ cup edamame |
-| Dressing            | Lemon/lime + olive oil + Dijon/herbs        |
+**Big salad or vegetables + protein + healthy fat + optional small nutrient side**
+
+Example:
+
+**Salmon + rocket/spinach salad + avocado + okra side**
+
+or
+
+**Chicken salad + olive oil dressing + 4 tbsp lentils**
+
+This is now a strong version for **low sugar, lower carbs, high vegetables, good protein and high nutrient variety**.
+
+[1]: https://www.diabetes.org.uk/living-with-diabetes/eating/meal-plans/low-carb?utm_source=chatgpt.com "Low-carb diet and meal plan | Eating with diabetes | Diabetes UK"
+[2]: https://www.nhs.uk/live-well/eat-well/food-types/starchy-foods-and-carbohydrates/?utm_source=chatgpt.com "Starchy foods and carbohydrates - NHS"
+[3]: https://tools.myfooddata.com/nutrition-facts/169260/wt1?utm_source=chatgpt.com "Nutrition Facts for Raw Okra - myfooddata"
