@@ -1,3 +1,7 @@
+# Ultimate Low-Carb & Low-Sugar Shopping List
+
+---
+
 ## 1. Breakfast
 
 | Item                                             |     Buy approx. |
@@ -9,22 +13,26 @@
 | 100% peanut butter, no added sugar               |       **1 jar** |
 | Chia seeds                                       | **1 small bag** |
 | Ground flaxseed                                  | **1 small bag** |
+| Hemp seeds                                       | **1 small bag** |
+| Whey protein or unflavoured plant protein powder | **1 small tub** |
+| Cottage cheese, low-fat                          |       **250 g** |
 
 ---
 
-## 2. Leafy greens and salad base
+## 2. Leafy Greens and Salad Base
 
 | Item                         |                       Buy approx. |
 | ---------------------------- | --------------------------------: |
 | Romaine lettuce              |                       **2 heads** |
 | Spinach                      |                     **350–400 g** |
 | Rocket/arugula               |                     **250–300 g** |
+| Watercress                   |                     **150–200 g** |
 | Kale or cavolo nero          |           **200–300 g**, optional |
 | Red cabbage or white cabbage | **1 small** or **300 g shredded** |
 
 ---
 
-## 3. Crunchy salad vegetables
+## 3. Crunchy Salad Vegetables
 
 | Item                       |          Buy approx. |
 | -------------------------- | -------------------: |
@@ -40,7 +48,7 @@
 
 ---
 
-## 4. Low-carb vegetable sides
+## 4. Low-Carb Vegetable Sides
 
 | Item                            |                               Buy approx. |
 | ------------------------------- | ----------------------------------------: |
@@ -51,13 +59,17 @@
 | Cauliflower                     |                               **1 large** |
 | Aubergine/eggplant              |                               **1 large** |
 | Pak choi / bok choy             |                             **1–2 heads** |
+| Brussels sprouts                |                             **300–400 g** |
 | Asparagus                       |                     **1 bunch**, optional |
 | Mushrooms                       |                                 **250 g** |
 | Celeriac                        | **1 medium**, optional potato replacement |
+| Spaghetti squash                |                 **1 medium**, optional    |
+| Leeks                           |                                     **2** |
+| Artichoke hearts, jarred        |                           **1 small jar** |
 
 ---
 
-## 5. Healthy fats and extras
+## 5. Healthy Fats and Extras
 
 | Item                               |         Buy approx. |
 | ---------------------------------- | ------------------: |
@@ -66,11 +78,14 @@
 | Pumpkin seeds                      |     **1 small bag** |
 | Walnuts                            |     **1 small bag** |
 | Unsalted peanuts                   |     **1 small bag** |
+| Almonds or macadamia nuts          |     **1 small bag** |
+| Tahini                             |       **1 small jar** |
 | Pickles/cornichons, no added sugar | **1 jar**, optional |
+| Extra virgin coconut oil           |     **1 small jar** |
 
 ---
 
-## 6. Herbs, flavour and aromatics
+## 6. Herbs, Flavour and Aromatics
 
 | Item                     |           Buy approx. |
 | ------------------------ | --------------------: |
@@ -82,7 +97,7 @@
 
 ---
 
-## 7. Fruit and citrus
+## 7. Fruit and Citrus
 
 Keep fruit mostly to berries and small amounts of kiwi.
 
@@ -99,19 +114,25 @@ Keep fruit mostly to berries and small amounts of kiwi.
 
 ## 8. Protein
 
+Quantities are sized for a full week with protein at lunch and dinner daily. Adjust up if you are larger or more active.
+
 | Item                                  |               Buy approx. |
 | ------------------------------------- | ------------------------: |
-| Chicken breast                        |         **300–350 g raw** |
-| Tuna                                  |                 **1 can** |
-| Salmon fillet                         | **1 fillet, about 150 g** |
-| Sardines, mackerel or white fish      |     **1 can or 1 fillet** |
-| Turkey breast or cooked turkey slices |                 **100 g** |
+| Chicken breast                        |           **600–700 g raw** |
+| Tuna                                  |               **2–3 cans** |
+| Salmon fillet                         |   **2 fillets, ~150 g each** |
+| Smoked salmon                         |               **100–150 g** |
+| Sardines, mackerel or white fish      |     **2 cans or 2 fillets** |
+| Cod, haddock or sea bass fillet       |         **1 fillet, ~150 g** |
+| Prawns / shrimp, raw or cooked        |               **250–300 g** |
+| Turkey breast or cooked turkey slices |                 **150–200 g** |
 | Firm tofu or tempeh                   |    **1 block, 200–250 g** |
-| Lean steak or lean mince              |             **150 g raw** |
+| Lean steak or lean mince              |           **250–300 g raw** |
+| Beef or chicken liver                 | **150 g**, once a week |
 
 ---
 
-## 9. Small nutrient side portions
+## 9. Small Nutrient Side Portions
 
 These are healthy but should be measured because they contain more carbs than okra, green beans or salad vegetables.
 
@@ -125,7 +146,7 @@ These are healthy but should be measured because they contain more carbs than ok
 
 ---
 
-## 10. Cheese and dairy for salads
+## 10. Cheese and Dairy for Salads
 
 | Item       |                   Buy approx. |
 | ---------- | ----------------------------: |
@@ -137,26 +158,32 @@ You can rotate these rather than buying all three every week.
 
 ---
 
-## 11. Dressings and pantry
+## 11. Dressings and Pantry
 
 | Item                 |        Buy approx. |
 | -------------------- | -----------------: |
 | Olive oil            |     **250–500 ml** |
+| Extra virgin coconut oil | **1 small jar** |
 | Apple cider vinegar  |       **1 bottle** |
 | Balsamic vinegar     |       **1 bottle** |
 | Dijon mustard        |          **1 jar** |
 | Low-salt soy sauce   | **1 small bottle** |
+| Fish sauce           | **1 small bottle** |
 | No-added-sugar salsa |          **1 jar** |
+| Tahini               |       **1 small jar** |
+| Nutritional yeast    | **1 small tub** |
 | Iodised salt         |    **1 small tub** |
 | Black pepper         |         **pantry** |
 | Dried oregano        |         **pantry** |
 | Smoked paprika       |         **pantry** |
 | Cumin                |         **pantry** |
+| Turmeric             |         **pantry** |
+| Cinnamon             |         **pantry** |
 | Chilli flakes        |       **optional** |
 
 ---
 
-## 12. Fermented foods for gut health
+## 12. Fermented Foods for Gut Health
 
 | Item                                   |                   Buy approx. |        Portion guide | Notes                                                                            |
 | -------------------------------------- | ----------------------------: | -------------------: | -------------------------------------------------------------------------------- |
@@ -167,3 +194,12 @@ You can rotate these rather than buying all three every week.
 | Fermented pickles / cornichons         |                     **1 jar** | **1–2 small pieces** | Choose salt-brined, no added sugar; not just vinegar-pickled.                    |
 | Natto                                  |    **optional, 1 small pack** |    **small portion** | Very nutritious fermented soy, but strong taste/texture.                         |
 
+---
+
+## 13. Drinks and Hydration
+
+| Item                  |         Buy approx. | Notes                                                              |
+| --------------------- | ------------------: | ------------------------------------------------------------------ |
+| Green tea or matcha   |     **1 small box/tin** | Antioxidants and metabolic benefits; drink without milk or sugar.  |
+| Sparkling water       |    **4–6 litres** | Useful replacement for fizzy drinks; add lemon or lime.            |
+| Bone broth            | **1 carton or jar** | Collagen and gut-lining support; very low carb. Sip as a warm drink or use as a soup base. |
